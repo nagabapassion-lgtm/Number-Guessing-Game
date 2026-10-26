@@ -89972,7 +89972,7 @@ if(l)s=1
 else{r=m.d
 s=r==null?1:r}if(l)q=1000
 else{r=m.e
-q=r==null?100:r}if(l)p=5
+q=r==null?100:r}if(l)p=7
 else{m=m.f
 p=m==null?5:m}if(l)o=A.aYP(new A.cP(Date.now(),0,!1),q,s)
 else o=s+B.jK.v8(q-s+1)
@@ -90255,7 +90255,7 @@ s=s==null?q:s.u3(B.y,0.3)
 r=t.p
 s=A.cw(A.b([j,B.iO,A.cR(A.cg(A.b([h,B.AK,A.aE(n+" "+A.aeO(o)+", "+A.aeQ(o),q,q,q,q,s,q,q)],r),B.a9,B.q,B.u),1),B.HZ],r),B.G,B.q,B.u,0)
 i=i.z
-return A.ke(A.bt(q,A.cg(A.b([s,B.ed,A.aE("One secret per day, the same for everyone worldwide. Range 1 to 1000, 5 lives. Win and post your guess count to today's leaderboard.",q,q,q,q,i==null?q:i.i4(B.y,1.5),q,q),B.bD,A.QZ(B.Xo,new A.aom(this,a),A.ak7(B.fV,q,q,q,q,q,q,q,q,q,q,q,B.bl,q,q,q,q,q,q,q))],r),B.a9,B.q,B.u),B.l,q,new A.b3(B.j,q,l,m,k,q,B.x),q,q,q,q,B.eV,q,q,q),new A.aon(this,a))}}
+return A.ke(A.bt(q,A.cg(A.b([s,B.ed,A.aE("One secret per day, the same for everyone worldwide. Range 1 to 1000, 7 lives. Win and post your guess count to today's leaderboard.",q,q,q,q,i==null?q:i.i4(B.y,1.5),q,q),B.bD,A.QZ(B.Xo,new A.aom(this,a),A.ak7(B.fV,q,q,q,q,q,q,q,q,q,q,q,B.bl,q,q,q,q,q,q,q))],r),B.a9,B.q,B.u),B.l,q,new A.b3(B.j,q,l,m,k,q,B.x),q,q,q,q,B.eV,q,q,q),new A.aon(this,a))}}
 A.aon.prototype={
 $0(){A.cp(this.b,!1).fX(A.iL(B.RJ,t.X))
 return null},
